@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: a-xuan-creater/my-blog
-  branch: main
+  branch: master
   base_url: https://api.github.com
   auth_endpoint: /api/auth
 
